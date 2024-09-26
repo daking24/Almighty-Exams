@@ -24,6 +24,7 @@ Almighty Exams is a comprehensive online examination system designed to make tes
 - [Node.js](https://nodejs.org/) >= 12.0
 - [MySQL](https://www.mysql.com/) or [PostgreSQL](https://www.postgresql.org/)
 - [PHP](https://www.php.net/) >= 7.4 (if Laravel is used in the project)
+- [FRONTEND PRACTICE](https://devdojo.com/souptikdn/10-websites-to-practice-your-frontend-development-skills)
 
 ### Installation
 
